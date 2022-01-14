@@ -1,0 +1,32 @@
+version	threads	time
+TRMIPolite	4	5275
+Total of commits: 100 (Expected: 100)
+Total of aborts: 36 
+Total of set minus: 20 
+Total of set plus: 20 
+Total of gets: 420 
+Total of transfer: 12 
+Total of operations: 472
+Total value of fields: 6000000 (Expected: 6000000)
+TRMIPassive	4	5666
+Total of commits: 100 (Expected: 100)
+Total of aborts: 94 
+Total of set minus: 22 
+Total of set plus: 22 
+Total of gets: 410 
+Total of transfer: 14 
+Total of operations: 468
+Total value of fields: 6000000 (Expected: 6000000)
+Locks	4	7457
+gravando arquivo
+gravando arquivo
+gravando arquivo
+gravando arquivo
+Total of commits: 100
+Total of aborts: 24523 
+Total of setminus: 24 
+Total of setplus: 24 
+Total of gets: 395 
+Total of transfer: 18 
+Total of operations: 461 
+Total value of fields: 6000000 (Expected: 6000000)
